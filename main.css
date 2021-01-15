@@ -4,6 +4,9 @@
   margin-bottom: 0px;
 }
 
+.row {
+  padding-bottom: 25px;
+}
 .jumbotron {
   font-family: "Ubuntu";
   height: 100vh;
@@ -30,6 +33,7 @@
   max-height: 350px;
   width: auto;
   height: auto;
+  background: transparent;
 }
 
 .gradient {
